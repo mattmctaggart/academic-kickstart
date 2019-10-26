@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: Science meets Parliament 2018 - Lessons and Next Steps
+title: Science meets Parliament - Lessons and Next Steps
 event: Laurier University Department of Chemistry and Biochemistry Seminar Series
 event_url: https://students.wlu.ca/programs/science/chemistry-and-biochemistry/research/seminar-series.html
 location: Wilfrid Laurier University
