@@ -7,7 +7,7 @@ active = false  # Activate this widget? true/false
 weight = 50  # Order that this section will appear.
 
 title = "Courses"
-subtitle = "Teaching in 2019-20"
+subtitle = "As someone who never expected to find himself in a university classroom let alone at the front of it, I am extremely grateful for every opportunity to introduce students to chemical and physical science."
 
 # Date format
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
@@ -59,5 +59,4 @@ date_format = "Jan 2006"
   date_end = "2019-04-01"
   description = "Introduction to graduate research, communications, and career skills"
 
-Speaking as someone who never expected to find himself in a university classroom let alone at the front of it, I am extremely grateful for every opportunity to introduce students to chemical and physical science.
 +++
