@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "{{ replace .Name "-" " " | title }}"
+title: Science meets Parliament 2018 - Lessons and Next Steps
 event: Laurier University Department of Chemistry and Biochemistry Seminar Series
 event_url: https://students.wlu.ca/programs/science/chemistry-and-biochemistry/research/seminar-series.html
 location: Wilfrid Laurier University
@@ -16,12 +16,12 @@ abstract:
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: {{ 2019-11-22T15:30 }}
-date_end: {{ 2019-11-22T17:00 }}
+date: 2019-11-22 at 15:30 EDT
+date_end: 2019-11-22 at 17:00 EDT
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: {{ .Date }}
+publishDate: 2019-10-26
 
 authors: []
 tags: []
