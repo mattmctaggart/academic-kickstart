@@ -42,7 +42,7 @@ url_dataset:
 url_poster:
 url_project:
 url_slides:
-url_source: https://cen.acs.org/education/graduate-education/Grad-school-in-students-own-words/96/i36#Making-complex-waves
+url_source: https://www.sciencedirect.com/science/article/abs/pii/S0009261415006028
 url_video:
 
 # Featured image
