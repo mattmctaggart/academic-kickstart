@@ -3,7 +3,7 @@
 
 title: Biomimetic Soft Polymer Nanomaterials for Efficient Chemical Processes
 authors: [admin]
-date: 2019-08-20
+date: 2015-08-20
 doi: "10.1007/978-3-319-15461-9_10"
 
 # Schedule page publish date (NOT publication's date).
