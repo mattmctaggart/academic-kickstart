@@ -1,8 +1,8 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: Science in Politics - The Canadian Perspective
-event: Science meets Parliament: Lessons learned
+title: Science in Politics, The Canadian Perspective
+event: Science meets Parliament Lessons learned
 event_url: https://aaas.confex.com/aaas/2019/meetingapp.cgi/Paper/23258
 location: AAAS Annual Meeting
 address:
