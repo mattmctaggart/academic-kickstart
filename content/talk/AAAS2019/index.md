@@ -46,7 +46,7 @@ image:
 #  icon: twitter
 
 # Optional filename of your slides within your talk's folder or a URL.
-url_slides:
+url_slides: https://speakerdeck.com/mattmctaggart/science-meets-parliament-2018-canadian-pilot
 
 url_code:
 url_pdf:
