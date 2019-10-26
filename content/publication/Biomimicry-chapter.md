@@ -26,7 +26,7 @@ summary: This chapter features synthetic biomimetic nanosystems at different siz
 
 tags: []
 categories: []
-featured: true
+featured: false
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
