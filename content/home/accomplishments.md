@@ -26,7 +26,7 @@ date_format = "Jan 2006"
   url = "https://www.rmc-cmr.ca/en/registrars-office/undergraduate-chemistry-chemical-engineering-courses#cceccf101"
   # certificate_url = ""
   date_start = "2019-09-01"
-  date_end = "2019-04-01"
+  date_end = "2020-04-01"
   description = "Fundamental principles of chemistry for science and engineering students"
 
 [[item]]
@@ -55,8 +55,8 @@ date_format = "Jan 2006"
   title = "CC504/CC604: Graduate Seminar"
   url = "https://www.rmc-cmr.ca/en/registrars-office/graduate-programmes-chemistry-chemical-engineering#CCE504-CGC504"
   # certificate_url = ""
-  date_start = "2019-09-01"
-  date_end = "2019-04-01"
+  date_start = "2020-01-01"
+  date_end = "2020-04-01"
   description = "Introduction to graduate research, communications, and career skills"
 
 +++
