@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Matt McTaggart
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,32 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Assistant Professor of Chemistry
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: Royal Military College of Canada
+  url: "https://www.rmc-cmr.ca/en"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Matt McTaggart is an Assistant Professor of Chemistry at the Royal Military College of Canada
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Dynamic self-assembly
+- Nanoscale thermodynamics
+- Science in Decision Making
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: Certificate in Ammunition Technology
+    institution: Royal Military College of Canada
+    year: 2018
+  - course: MSc in Chemical and Materials Science (Nanoscience)
+    institution: Royal Military College of Canada
+    year: 2015
+  - course: BSc(Hons) in Chemistry, Life Sciences minor
+    institution: Royal Military College of Canada
+    year: 2013
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -44,16 +44,16 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: '#contact'  # For a direct email link, use "mailto:matt.mctaggart@rmc.ca".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/mattmctaggart
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://scholar.google.ca/citations?user=nFyvqZUAAAAJ&hl=en
+#  icon: github
+#  icon_pack: fab
+#  link: https://github.com/gcushen
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 # - icon: cv
@@ -70,6 +70,6 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Matt McTaggart is an assistant professor and PhD candidate in the Department of Chemistry and Chemical Engineering at the Royal Military College of Canada. He is developing materials that take inspiration from nanostructured biological systems such as the programmable optics of squid skin or the surprisingly versatile thermodynamics of enzymes.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+Matt joined the Canadian Forces in 2001 as an aircraft mechanic and worked on the CP-140 Aurora anti-submarine and reconnaisance platform. Since accepting an offer for Commission in 2009, Matt remustered to Logistics Officer and now specializes in ammunition and explosives. He lives in Kingston with his wife, Danielle, and children Jamie and Moira.
