@@ -11,7 +11,7 @@ address:
   region: Ontario
   postcode: N2L3C5
   country: Canada
-summary: Presentation and Panel Discussion on the role of science in the moderm political discourse
+summary: Presentation followed by a panel discussion with Dr. Mehrdad Hariri and MPP Catherine Fife, moderated by Dr. Louise Dawe.
 abstract: Capt. McTaggart will tell the first-hand story of Science meets Parliament Canada, from its inspiration and planning stages through to the training workshops and nearly 100 individual meetings between researchers and Parliamentarians. Integrating a training workshop with a large-scale experiential exercise allows participants to confirm and cement the skills gained, multiplying the value for participants (and the difficulty for organizers!) He will also highlight the central role of diversity and inclusion in programme planning, provide examples of the programme’s ongoing impact, and share the collaboration’s hopes for future events. There is a strong and growing appetite among established researchers and trainees to understand and engage with policy. Science meets Parliament demonstrates the impact that Canadian research and innovation may make when the people who know it best are given the skills and space to make it heard.
 
 # Talk start and end times.
