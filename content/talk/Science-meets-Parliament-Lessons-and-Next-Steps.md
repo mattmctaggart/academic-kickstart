@@ -34,16 +34,16 @@ featured: true
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
   caption: ""
-  focal_point: ""
+  focal_point: "Smart"
   preview_only: false
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
-# links:
-# - name: Follow
-#   url: https://twitter.com
-#   icon_pack: fab
-#   icon: twitter
+ links:
+ - name: Follow
+   url: https://twitter.com/mattmctaggart
+   icon_pack: fab
+   icon: twitter
 
 # Optional filename of your slides within your talk's folder or a URL.
 url_slides:
