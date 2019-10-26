@@ -16,12 +16,12 @@ abstract:
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2019-11-22T15:30
-date_end: 2019-11-22T17:00
+date: {{ dateFormat "22 November 2019 15:30 EST" .Date.Local }}
+date_end: {{ dateFormat "22 November 2019 17:00 EST" .Date.Local }}
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: 2019-10-26
+publishDate: {{ .Date "2019-10-26"  }}
 
 authors: []
 tags: []
